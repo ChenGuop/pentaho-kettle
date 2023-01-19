@@ -30,9 +30,9 @@
           <name>!skipDefault</name>
         </property>
       </activation>
-      <modules>
-        <module>log4j</module>
-      </modules>
+<!--      <modules>-->
+<!--        <module>log4j</module>-->
+<!--      </modules>-->
     </profile>
 
     <profile>
